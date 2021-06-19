@@ -9,4 +9,11 @@ git log
 git log --all
 git status
 
+git branch
 git branch test
+
+git merge test     fast forward merge
+
+git diff
+
+git stash
